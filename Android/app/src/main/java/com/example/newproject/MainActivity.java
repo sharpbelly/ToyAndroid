@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //주석2번입니다.
+
+        //추가주석입니다.
     }
 }
